@@ -7,7 +7,8 @@ A grammar is a set of rules for putting strings together and so corresponds to a
 3. A list of productions (also called rules).
 
 ### Here is a grammar:
-  S → 0S1
-  S → ε
+
+  * S → 0S1
+  * S → ε
   
 S is the only variable. The terminals are 0 and 1. There are two productions.
