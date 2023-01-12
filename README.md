@@ -1,2 +1,6 @@
 Context Free Grammars: A grammar is a set of rules for putting strings together and so corresponds to a language.
-![image](https://user-images.githubusercontent.com/56669333/212093658-26e18044-a127-459c-957f-ae46aec5608e.png)
+
+### A grammar consists of:
+• a set of variables (also called nonterminals), one of which is designated the start variable; It is customary to use upper-case letters for variables;
+• a set of terminals (from the alphabet); and
+• a list of productions (also called rules).
