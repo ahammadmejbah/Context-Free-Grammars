@@ -8,7 +8,6 @@ A grammar is a set of rules for putting strings together and so corresponds to a
 
 ### Here is a grammar:
   S → 0S1
-  
   S → ε
   
 S is the only variable. The terminals are 0 and 1. There are two productions.
